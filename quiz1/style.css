@@ -21,9 +21,9 @@ body.dark nav a:hover{background:rgba(255,255,255,.15)}
 .wrap h2{font-size:clamp(2.4rem,5vw,4rem)}
 .pill{display:inline-block;padding:6px 22px;border-radius:99px;text-decoration:none;color:var(--navy);background:var(--paper);margin-top:40px}
 .split,.cols,.cards,.hometown,.thero{max-width:1200px;margin:0 auto;padding:60px 20px}
-.about{display:grid;grid-template-columns:1.5fr 1fr;gap:40px;align-items:end;padding-bottom:0}
+.about{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:end;padding-bottom:0}
 .about h1{margin-bottom:40px}.about .body{font-size:1.25rem;line-height:2;padding-bottom:80px}
-.portrait{width:100%;max-width:340px;justify-self:center;display:block;background:#dcdcdc;min-height:200px}
+.portrait{width:100%;max-width:560px;justify-self:center;display:block}
 .moments{padding:50px 0 60px;text-align:center}
 .film{margin:40px 0 30px;background:#000;overflow:hidden}
 .track{display:flex;gap:28px;width:max-content;padding:22px 0;animation:roll 30s linear infinite}
